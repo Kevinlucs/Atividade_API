@@ -812,3 +812,4 @@ C:\Users\PC GAMER\Desktop\Curso SENAI\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.
 C:\Users\PC GAMER\Desktop\Curso SENAI\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.Up2Date
 C:\Users\PC GAMER\Desktop\Curso SENAI\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\PC GAMER\Desktop\Curso SENAI\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\PC GAMER\Desktop\Curso SENAI\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
